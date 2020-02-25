@@ -1,20 +1,23 @@
-//public class PrintAlot {
-//    public static void main(String[] args) {
-//        printHello(10);
-//        addTwoNumber(5,7);
-//    }
-//
-//    public static void printMultiple(int numberofRepeat) {
-//        int count = 0;
-//
-//        while (count < numberofRepeat) {
-//            System.out.println("Hello World");
-//            count++;
-//        }
-//        public static int addTwoNumber ( int a, int b){
-//            int sum = a + b;
-//            System.out.println(sum);
-//
-//        }
-//    }
-//}
+public class PrintAlot {
+public static void multipleHelloWorlds(int x){
+        for (int i=0;i<x;i++){
+        System.out.println("Hello World");
+        }
+        }
+public static int addTwoNumbers(int y, int z){
+        int x = y+z;
+        return x;
+        }
+public static int subtractTwoNumbers(int y, int z){
+        int x = y-z;
+        return x;
+        }
+public static int multiplyTwoNumbers(int y, int z){
+        int x = y*z;
+        return x;
+        }
+public static float divideTwoNumbers(float y, float z){
+        float x = y/z;
+        return x;
+        }
+        }
