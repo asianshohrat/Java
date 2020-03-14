@@ -1,19 +1,11 @@
-package firstproject;
+package review;
 
-public class DataTypes {
+public class DAtaTypes {
     public static void main(String[] args) {
-        byte mybyte = 8;
-        short myShort = 16;
-        int myInt = 24;
-        long myLong = 9999999;
-        double firstVar = 2.4;
-                float myfloat = 33;
-                char mychar ='a';
-                boolean myBool = false;
-
-        System.out.println(mybyte+" "+myShort+""+myInt+""+myLong+""+firstVar+""+myfloat+" "+mychar+" "+mybyte);
-
-
+        System.out.println(4/5);
+        System.out.println(2.0/3);
+        System.out.println((float)(2.0/3));
+        System.out.println('a'/3);
+        System.out.println('A'/9.0);
     }
-
 }
