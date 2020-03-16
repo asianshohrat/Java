@@ -1,6 +1,6 @@
 package review;
 
-public class MathOperations {
+public class MathOperations2 {
     public static void main(String[] args) {
         addTwoDoubleVoid(3,4);
         addTwoIntVoid(3,4);

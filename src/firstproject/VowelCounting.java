@@ -1,4 +1,4 @@
-package review;
+package creating_classes;
 
 public class VowelCounting {
     public static void main(String[] args) {
