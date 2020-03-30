@@ -11,5 +11,7 @@ public class ArraysTest {
         System.out.println(myStat.findMax());
         int maxIndex=myStat.findMaxIndex();
         System.out.println(maxIndex);
+                    
     }
+
 }
