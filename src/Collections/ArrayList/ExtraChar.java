@@ -1,4 +1,4 @@
-package ArrayList;
+package Collections.ArrayList;
 public class ExtraChar {
     public static void main(String[] args) {
         String str = "aA - 1234567890 dsdas";

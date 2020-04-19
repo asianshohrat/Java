@@ -1,7 +1,6 @@
-package ArrayList;
+package Collections.ArrayList;
 
 import java.util.ArrayList;
-import java.util.Random;
 
 public class CharArrayList {
     public static void main(String[] args) {

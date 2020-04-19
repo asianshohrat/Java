@@ -1,6 +1,5 @@
-package ArrayList;
+package Collections.ArrayList;
 
-import javax.print.DocFlavor;
 import java.util.ArrayList;
 import java.util.Arrays;
 
